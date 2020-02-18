@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="artwork/bitinvader">
+		<file alias="artwork.png">/root/lmms/plugins/bit_invader/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/bit_invader/logo.png</file>
+		<file alias="smooth_active.png">/root/lmms/plugins/bit_invader/smooth_active.png</file>
+		<file alias="smooth_inactive.png">/root/lmms/plugins/bit_invader/smooth_inactive.png</file>
+		<file alias="wavegraph.png">/root/lmms/plugins/bit_invader/wavegraph.png</file>
+	</qresource>
+</RCC>

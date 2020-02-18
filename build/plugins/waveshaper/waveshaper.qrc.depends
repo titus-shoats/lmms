@@ -1,0 +1,15 @@
+<RCC>
+	<qresource prefix="artwork/waveshaper">
+		<file alias="add1_active.png">/root/lmms/plugins/waveshaper/add1_active.png</file>
+		<file alias="add1_inactive.png">/root/lmms/plugins/waveshaper/add1_inactive.png</file>
+		<file alias="artwork.png">/root/lmms/plugins/waveshaper/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/waveshaper/logo.png</file>
+		<file alias="reset_active.png">/root/lmms/plugins/waveshaper/reset_active.png</file>
+		<file alias="reset_inactive.png">/root/lmms/plugins/waveshaper/reset_inactive.png</file>
+		<file alias="smooth_active.png">/root/lmms/plugins/waveshaper/smooth_active.png</file>
+		<file alias="smooth_inactive.png">/root/lmms/plugins/waveshaper/smooth_inactive.png</file>
+		<file alias="sub1_active.png">/root/lmms/plugins/waveshaper/sub1_active.png</file>
+		<file alias="sub1_inactive.png">/root/lmms/plugins/waveshaper/sub1_inactive.png</file>
+		<file alias="wavegraph.png">/root/lmms/plugins/waveshaper/wavegraph.png</file>
+	</qresource>
+</RCC>

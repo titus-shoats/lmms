@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="artwork/ladspaeffect">
+		<file alias="logo.png">/root/lmms/plugins/LadspaEffect/logo.png</file>
+	</qresource>
+</RCC>

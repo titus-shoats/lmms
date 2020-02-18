@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="artwork/dualfilter">
+		<file alias="artwork.png">/root/lmms/plugins/DualFilter/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/DualFilter/logo.png</file>
+	</qresource>
+</RCC>

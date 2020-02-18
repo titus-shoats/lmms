@@ -1,0 +1,32 @@
+<RCC>
+	<qresource prefix="artwork/monstro">
+		<file alias="am_active.png">/root/lmms/plugins/monstro/am_active.png</file>
+		<file alias="am_inactive.png">/root/lmms/plugins/monstro/am_inactive.png</file>
+		<file alias="artwork_mat.png">/root/lmms/plugins/monstro/artwork_mat.png</file>
+		<file alias="artwork_op.png">/root/lmms/plugins/monstro/artwork_op.png</file>
+		<file alias="exp.png">/root/lmms/plugins/monstro/exp.png</file>
+		<file alias="fm_active.png">/root/lmms/plugins/monstro/fm_active.png</file>
+		<file alias="fm_inactive.png">/root/lmms/plugins/monstro/fm_inactive.png</file>
+		<file alias="logo.png">/root/lmms/plugins/monstro/logo.png</file>
+		<file alias="matview_active.png">/root/lmms/plugins/monstro/matview_active.png</file>
+		<file alias="matview_inactive.png">/root/lmms/plugins/monstro/matview_inactive.png</file>
+		<file alias="mix_active.png">/root/lmms/plugins/monstro/mix_active.png</file>
+		<file alias="mix_inactive.png">/root/lmms/plugins/monstro/mix_inactive.png</file>
+		<file alias="moog.png">/root/lmms/plugins/monstro/moog.png</file>
+		<file alias="noise.png">/root/lmms/plugins/monstro/noise.png</file>
+		<file alias="opview_active.png">/root/lmms/plugins/monstro/opview_active.png</file>
+		<file alias="opview_inactive.png">/root/lmms/plugins/monstro/opview_inactive.png</file>
+		<file alias="pm_active.png">/root/lmms/plugins/monstro/pm_active.png</file>
+		<file alias="pm_inactive.png">/root/lmms/plugins/monstro/pm_inactive.png</file>
+		<file alias="ramp.png">/root/lmms/plugins/monstro/ramp.png</file>
+		<file alias="rand.png">/root/lmms/plugins/monstro/rand.png</file>
+		<file alias="saw.png">/root/lmms/plugins/monstro/saw.png</file>
+		<file alias="sin.png">/root/lmms/plugins/monstro/sin.png</file>
+		<file alias="sinabs.png">/root/lmms/plugins/monstro/sinabs.png</file>
+		<file alias="sqr.png">/root/lmms/plugins/monstro/sqr.png</file>
+		<file alias="sqrsoft.png">/root/lmms/plugins/monstro/sqrsoft.png</file>
+		<file alias="tinyled_off.png">/root/lmms/plugins/monstro/tinyled_off.png</file>
+		<file alias="tinyled_on.png">/root/lmms/plugins/monstro/tinyled_on.png</file>
+		<file alias="tri.png">/root/lmms/plugins/monstro/tri.png</file>
+	</qresource>
+</RCC>

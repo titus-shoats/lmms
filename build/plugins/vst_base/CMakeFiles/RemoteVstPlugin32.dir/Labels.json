@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin32"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin32.rule"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin32-complete.rule"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-install.rule"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-mkdir.rule"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-download.rule"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-update.rule"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-patch.rule"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-configure.rule"
+		},
+		{
+			"file" : "/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"RemoteVstPlugin32"
+		],
+		"name" : "RemoteVstPlugin32"
+	}
+}

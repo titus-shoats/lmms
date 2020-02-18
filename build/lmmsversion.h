@@ -1,0 +1,2 @@
+#define LMMS_VERSION "1.2.1.581"
+#define LMMS_PROJECT_COPYRIGHT "2008-2019 LMMS Developers"

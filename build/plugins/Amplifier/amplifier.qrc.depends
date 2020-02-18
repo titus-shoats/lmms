@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="artwork/amplifier">
+		<file alias="artwork.png">/root/lmms/plugins/Amplifier/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/Amplifier/logo.png</file>
+	</qresource>
+</RCC>

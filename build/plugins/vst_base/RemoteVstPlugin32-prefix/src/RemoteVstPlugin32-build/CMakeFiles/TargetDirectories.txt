@@ -1,0 +1,7 @@
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-build/CMakeFiles/install/strip.dir
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-build/CMakeFiles/install/local.dir
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-build/CMakeFiles/edit_cache.dir
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-build/CMakeFiles/RemoteVstPlugin32.dir
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-build/CMakeFiles/rebuild_cache.dir
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-build/CMakeFiles/list_install_components.dir
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-build/CMakeFiles/install.dir

@@ -1,0 +1,178 @@
+The system is: Linux - 5.0.0-38-generic - x86_64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /root/lmms/build/winegcc_wrapper 
+Build flags: -m64
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out.so"
+
+The CXX compiler identification is GNU, found in "/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/3.13.4/CompilerIdCXX/a.out.so"
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_ba773/fast"
+make[3]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+/bin/make -f CMakeFiles/cmTC_ba773.dir/build.make CMakeFiles/cmTC_ba773.dir/build
+make[4]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ba773.dir/testCXXCompiler.cxx.o
+/root/lmms/build/winegcc_wrapper    -m64    -o CMakeFiles/cmTC_ba773.dir/testCXXCompiler.cxx.o -c /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_ba773
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_ba773.dir/link.txt --verbose=1
+/root/lmms/build/winegcc_wrapper  -m64     -rdynamic CMakeFiles/cmTC_ba773.dir/testCXXCompiler.cxx.o  -o cmTC_ba773 
+make[4]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_5cace/fast"
+make[3]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+/bin/make -f CMakeFiles/cmTC_5cace.dir/build.make CMakeFiles/cmTC_5cace.dir/build
+make[4]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o
+/root/lmms/build/winegcc_wrapper    -m64    -o CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp
+Linking CXX executable cmTC_5cace
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5cace.dir/link.txt --verbose=1
+/root/lmms/build/winegcc_wrapper  -m64    -v -rdynamic CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_5cace 
+gcc -m64 -xassembler -c -m64 -o cmTC_5cace.5i2344.o cmTC_5cace.mrZUwr.s
+ld -m elf_x86_64 -r -o cmTC_5cace.MVTSDH.o cmTC_5cace.5i2344.o CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o /usr/lib/x86_64-linux-gnu/wine//libwinecrt0.a
+gcc -m64 -xassembler -c -m64 -o cmTC_5cace.exe-q11BUM.spec.o cmTC_5cace.jFOpZN.s
+/usr/lib/wine/winebuild -v -fno-asynchronous-unwind-tables --cc-cmd=gcc -m64 --ld-cmd=ld -m64 -D_REENTRANT -fPIC --exe -o cmTC_5cace.exe-q11BUM.spec.o -F cmTC_5cace.exe --subsystem console -L/usr/lib/x86_64-linux-gnu/wine/ -L/usr/lib/x86_64-linux-gnu/wine/wine -L/usr/lib/x86_64-linux-gnu/wine -- CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o /usr/lib/x86_64-linux-gnu/wine//libadvapi32.def /usr/lib/x86_64-linux-gnu/wine//libuser32.def /usr/lib/x86_64-linux-gnu/wine//libwinecrt0.a /usr/lib/x86_64-linux-gnu/wine//libkernel32.def /usr/lib/x86_64-linux-gnu/wine//libntdll.def 
+Creating file try_link-wlZF3s.c
+g++ -m64 -m64 -o try_link-A45jc9.out -fPIC -shared -Wl,-Bsymbolic -Wl,-z,defs -Wl,-init,__wine_spec_init,-fini,_wine_spec_fini try_link-wlZF3s.c 
+Creating file try_link-IKqkIv.c
+g++ -m64 -m64 -shared -Wl,-Bsymbolic -Wl,-z,defs -Wl,-init,__wine_spec_init,-fini,__wine_spec_fini -o cmTC_5cace.exe.so -m64 -o try_link-wLSe5b.out -Wl,-z,max-page-size=0x1000 try_link-IKqkIv.c 
+g++ -m64 -m64 -shared -Wl,-Bsymbolic -Wl,-z,defs -Wl,-init,__wine_spec_init,-fini,__wine_spec_fini -o cmTC_5cace.exe.so -m64 -Wl,-z,max-page-size=0x1000 -L/usr/lib/x86_64-linux-gnu/wine/ -L/usr/lib/x86_64-linux-gnu/wine/wine -L/usr/lib/x86_64-linux-gnu/wine cmTC_5cace.exe-q11BUM.spec.o CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o /usr/lib/x86_64-linux-gnu/wine//libwinecrt0.a -lwine -lm -lc 
+Creating file cmTC_5cace.exe
+make[4]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command:"/bin/make" "cmTC_5cace/fast"]
+  ignore line: [make[3]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp']
+  ignore line: [/bin/make -f CMakeFiles/cmTC_5cace.dir/build.make CMakeFiles/cmTC_5cace.dir/build]
+  ignore line: [make[4]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/root/lmms/build/winegcc_wrapper    -m64    -o CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.13/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Linking CXX executable cmTC_5cace]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5cace.dir/link.txt --verbose=1]
+  ignore line: [/root/lmms/build/winegcc_wrapper  -m64    -v -rdynamic CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o  -o cmTC_5cace ]
+  ignore line: [gcc -m64 -xassembler -c -m64 -o cmTC_5cace.5i2344.o cmTC_5cace.mrZUwr.s]
+  link line: [ld -m elf_x86_64 -r -o cmTC_5cace.MVTSDH.o cmTC_5cace.5i2344.o CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o /usr/lib/x86_64-linux-gnu/wine//libwinecrt0.a]
+    arg [ld] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [-r] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_5cace.MVTSDH.o] ==> ignore
+    arg [cmTC_5cace.5i2344.o] ==> ignore
+    arg [CMakeFiles/cmTC_5cace.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [/usr/lib/x86_64-linux-gnu/wine//libwinecrt0.a] ==> lib [/usr/lib/x86_64-linux-gnu/wine//libwinecrt0.a]
+  collapse lib [/usr/lib/x86_64-linux-gnu/wine//libwinecrt0.a] ==> [/usr/lib/x86_64-linux-gnu/wine/libwinecrt0.a]
+  implicit libs: [/usr/lib/x86_64-linux-gnu/wine/libwinecrt0.a]
+  implicit dirs: []
+  implicit fwks: []
+
+
+
+
+Detecting CXX [-std=c++2a] compiler features compiled with the following output:
+Change Dir: /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_2a2c0/fast"
+make[3]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+/bin/make -f CMakeFiles/cmTC_2a2c0.dir/build.make CMakeFiles/cmTC_2a2c0.dir/build
+make[4]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_2a2c0.dir/feature_tests.cxx.o
+/root/lmms/build/winegcc_wrapper    -m64    -std=c++2a -o CMakeFiles/cmTC_2a2c0.dir/feature_tests.cxx.o -c /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_2a2c0
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_2a2c0.dir/link.txt --verbose=1
+/root/lmms/build/winegcc_wrapper  -m64     -rdynamic CMakeFiles/cmTC_2a2c0.dir/feature_tests.cxx.o  -o cmTC_2a2c0 
+make[4]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting CXX [-std=c++17] compiler features compiled with the following output:
+Change Dir: /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_c80aa/fast"
+make[3]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+/bin/make -f CMakeFiles/cmTC_c80aa.dir/build.make CMakeFiles/cmTC_c80aa.dir/build
+make[4]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_c80aa.dir/feature_tests.cxx.o
+/root/lmms/build/winegcc_wrapper    -m64    -std=c++17 -o CMakeFiles/cmTC_c80aa.dir/feature_tests.cxx.o -c /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_c80aa
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c80aa.dir/link.txt --verbose=1
+/root/lmms/build/winegcc_wrapper  -m64     -rdynamic CMakeFiles/cmTC_c80aa.dir/feature_tests.cxx.o  -o cmTC_c80aa 
+make[4]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting CXX [-std=c++14] compiler features compiled with the following output:
+Change Dir: /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_a94fa/fast"
+make[3]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+/bin/make -f CMakeFiles/cmTC_a94fa.dir/build.make CMakeFiles/cmTC_a94fa.dir/build
+make[4]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_a94fa.dir/feature_tests.cxx.o
+/root/lmms/build/winegcc_wrapper    -m64    -std=c++14 -o CMakeFiles/cmTC_a94fa.dir/feature_tests.cxx.o -c /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_a94fa
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a94fa.dir/link.txt --verbose=1
+/root/lmms/build/winegcc_wrapper  -m64     -rdynamic CMakeFiles/cmTC_a94fa.dir/feature_tests.cxx.o  -o cmTC_a94fa 
+make[4]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting CXX [-std=c++11] compiler features compiled with the following output:
+Change Dir: /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_0db02/fast"
+make[3]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+/bin/make -f CMakeFiles/cmTC_0db02.dir/build.make CMakeFiles/cmTC_0db02.dir/build
+make[4]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_0db02.dir/feature_tests.cxx.o
+/root/lmms/build/winegcc_wrapper    -m64    -std=c++11 -o CMakeFiles/cmTC_0db02.dir/feature_tests.cxx.o -c /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_0db02
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0db02.dir/link.txt --verbose=1
+/root/lmms/build/winegcc_wrapper  -m64     -rdynamic CMakeFiles/cmTC_0db02.dir/feature_tests.cxx.o  -o cmTC_0db02 
+make[4]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+
+
+
+
+Detecting CXX [-std=c++98] compiler features compiled with the following output:
+Change Dir: /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_7adcb/fast"
+make[3]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+/bin/make -f CMakeFiles/cmTC_7adcb.dir/build.make CMakeFiles/cmTC_7adcb.dir/build
+make[4]: Entering directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_7adcb.dir/feature_tests.cxx.o
+/root/lmms/build/winegcc_wrapper    -m64    -std=c++98 -o CMakeFiles/cmTC_7adcb.dir/feature_tests.cxx.o -c /root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/feature_tests.cxx
+Linking CXX executable cmTC_7adcb
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_7adcb.dir/link.txt --verbose=1
+/root/lmms/build/winegcc_wrapper  -m64     -rdynamic CMakeFiles/cmTC_7adcb.dir/feature_tests.cxx.o  -o cmTC_7adcb 
+make[4]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+make[3]: Leaving directory '/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-build/CMakeFiles/CMakeTmp'
+
+

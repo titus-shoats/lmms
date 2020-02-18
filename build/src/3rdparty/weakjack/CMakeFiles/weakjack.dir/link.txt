@@ -1,0 +1,1 @@
+/bin/cc -fPIC -std=c11  -shared  -o libweakjack.so CMakeFiles/weakjack.dir/weakjack/weak_libjack.c.o 

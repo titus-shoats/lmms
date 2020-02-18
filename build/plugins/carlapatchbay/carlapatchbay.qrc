@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="artwork/carlapatchbay">
+		<file alias="logo.png">/root/lmms/plugins/carlapatchbay/logo.png</file>
+	</qresource>
+</RCC>

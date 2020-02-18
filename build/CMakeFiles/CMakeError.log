@@ -1,0 +1,230 @@
+Determining if files soundcard.h exist failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_63d8c/fast"
+/bin/make -f CMakeFiles/cmTC_63d8c.dir/build.make CMakeFiles/cmTC_63d8c.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_63d8c.dir/LMMS_HAVE_SOUNDCARD_H.c.o
+/bin/cc    -o CMakeFiles/cmTC_63d8c.dir/LMMS_HAVE_SOUNDCARD_H.c.o   -c /root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_SOUNDCARD_H.c
+/root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_SOUNDCARD_H.c:2:10: fatal error: soundcard.h: No such file or directory
+ #include <soundcard.h>
+          ^~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_63d8c.dir/build.make:66: CMakeFiles/cmTC_63d8c.dir/LMMS_HAVE_SOUNDCARD_H.c.o] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_63d8c/fast] Error 2
+
+Source:
+/* */
+#include <soundcard.h>
+
+
+int main(void){return 0;}
+
+Determining if files process.h exist failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_f4b92/fast"
+/bin/make -f CMakeFiles/cmTC_f4b92.dir/build.make CMakeFiles/cmTC_f4b92.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f4b92.dir/LMMS_HAVE_PROCESS_H.c.o
+/bin/cc    -o CMakeFiles/cmTC_f4b92.dir/LMMS_HAVE_PROCESS_H.c.o   -c /root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_PROCESS_H.c
+/root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_PROCESS_H.c:2:10: fatal error: process.h: No such file or directory
+ #include <process.h>
+          ^~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_f4b92.dir/build.make:66: CMakeFiles/cmTC_f4b92.dir/LMMS_HAVE_PROCESS_H.c.o] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_f4b92/fast] Error 2
+
+Source:
+/* */
+#include <process.h>
+
+
+int main(void){return 0;}
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_a2f18/fast"
+/bin/make -f CMakeFiles/cmTC_a2f18.dir/build.make CMakeFiles/cmTC_a2f18.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_a2f18.dir/CheckSymbolExists.c.o
+/bin/cc    -o CMakeFiles/cmTC_a2f18.dir/CheckSymbolExists.c.o   -c /root/lmms/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_a2f18
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_a2f18.dir/link.txt --verbose=1
+/bin/cc      -rdynamic CMakeFiles/cmTC_a2f18.dir/CheckSymbolExists.c.o  -o cmTC_a2f18 
+/bin/ld: CMakeFiles/cmTC_a2f18.dir/CheckSymbolExists.c.o: in function `main':
+CheckSymbolExists.c:(.text+0x1b): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_a2f18.dir/build.make:87: cmTC_a2f18] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_a2f18/fast] Error 2
+
+File /root/lmms/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_6e9d4/fast"
+/bin/make -f CMakeFiles/cmTC_6e9d4.dir/build.make CMakeFiles/cmTC_6e9d4.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_6e9d4.dir/CheckFunctionExists.c.o
+/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_6e9d4.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_6e9d4
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_6e9d4.dir/link.txt --verbose=1
+/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create    -rdynamic CMakeFiles/cmTC_6e9d4.dir/CheckFunctionExists.c.o  -o cmTC_6e9d4 -lpthreads 
+/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_6e9d4.dir/build.make:87: cmTC_6e9d4] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_6e9d4/fast] Error 2
+
+
+Determining if files machine/soundcard.h exist failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_65d28/fast"
+/bin/make -f CMakeFiles/cmTC_65d28.dir/build.make CMakeFiles/cmTC_65d28.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_65d28.dir/LMMS_HAVE_MACHINE_SOUNDCARD_H.c.o
+/bin/cc    -o CMakeFiles/cmTC_65d28.dir/LMMS_HAVE_MACHINE_SOUNDCARD_H.c.o   -c /root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_MACHINE_SOUNDCARD_H.c
+/root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_MACHINE_SOUNDCARD_H.c:2:10: fatal error: machine/soundcard.h: No such file or directory
+ #include <machine/soundcard.h>
+          ^~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_65d28.dir/build.make:66: CMakeFiles/cmTC_65d28.dir/LMMS_HAVE_MACHINE_SOUNDCARD_H.c.o] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_65d28/fast] Error 2
+
+Source:
+/* */
+#include <machine/soundcard.h>
+
+
+int main(void){return 0;}
+
+Determining if files linux/awe_voice.h exist failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_52344/fast"
+/bin/make -f CMakeFiles/cmTC_52344.dir/build.make CMakeFiles/cmTC_52344.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_52344.dir/LMMS_HAVE_LINUX_AWE_VOICE_H.c.o
+/bin/cc    -o CMakeFiles/cmTC_52344.dir/LMMS_HAVE_LINUX_AWE_VOICE_H.c.o   -c /root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_LINUX_AWE_VOICE_H.c
+/root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_LINUX_AWE_VOICE_H.c:2:10: fatal error: linux/awe_voice.h: No such file or directory
+ #include <linux/awe_voice.h>
+          ^~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_52344.dir/build.make:66: CMakeFiles/cmTC_52344.dir/LMMS_HAVE_LINUX_AWE_VOICE_H.c.o] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_52344/fast] Error 2
+
+Source:
+/* */
+#include <linux/awe_voice.h>
+
+
+int main(void){return 0;}
+
+Determining if files awe_voice.h exist failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_10aa5/fast"
+/bin/make -f CMakeFiles/cmTC_10aa5.dir/build.make CMakeFiles/cmTC_10aa5.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_10aa5.dir/LMMS_HAVE_AWE_VOICE_H.c.o
+/bin/cc    -o CMakeFiles/cmTC_10aa5.dir/LMMS_HAVE_AWE_VOICE_H.c.o   -c /root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_AWE_VOICE_H.c
+/root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE_AWE_VOICE_H.c:2:10: fatal error: awe_voice.h: No such file or directory
+ #include <awe_voice.h>
+          ^~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_10aa5.dir/build.make:66: CMakeFiles/cmTC_10aa5.dir/LMMS_HAVE_AWE_VOICE_H.c.o] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_10aa5/fast] Error 2
+
+Source:
+/* */
+#include <awe_voice.h>
+
+
+int main(void){return 0;}
+
+Determining if files /usr/src/sys/i386/isa/sound/awe_voice.h exist failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_520a0/fast"
+/bin/make -f CMakeFiles/cmTC_520a0.dir/build.make CMakeFiles/cmTC_520a0.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_520a0.dir/LMMS_HAVE__USR_SRC_SYS_I386_ISA_SOUND_AWE_VOICE_H.c.o
+/bin/cc    -o CMakeFiles/cmTC_520a0.dir/LMMS_HAVE__USR_SRC_SYS_I386_ISA_SOUND_AWE_VOICE_H.c.o   -c /root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE__USR_SRC_SYS_I386_ISA_SOUND_AWE_VOICE_H.c
+/root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE__USR_SRC_SYS_I386_ISA_SOUND_AWE_VOICE_H.c:2:10: fatal error: /usr/src/sys/i386/isa/sound/awe_voice.h: No such file or directory
+ #include </usr/src/sys/i386/isa/sound/awe_voice.h>
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_520a0.dir/build.make:66: CMakeFiles/cmTC_520a0.dir/LMMS_HAVE__USR_SRC_SYS_I386_ISA_SOUND_AWE_VOICE_H.c.o] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_520a0/fast] Error 2
+
+Source:
+/* */
+#include </usr/src/sys/i386/isa/sound/awe_voice.h>
+
+
+int main(void){return 0;}
+
+Determining if files /usr/src/sys/gnu/i386/isa/sound/awe_voice.h exist failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_5fcb1/fast"
+/bin/make -f CMakeFiles/cmTC_5fcb1.dir/build.make CMakeFiles/cmTC_5fcb1.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5fcb1.dir/LMMS_HAVE__USR_SRC_SYS_GNU_I386_ISA_SOUND_AWE_VOICE_H.c.o
+/bin/cc    -o CMakeFiles/cmTC_5fcb1.dir/LMMS_HAVE__USR_SRC_SYS_GNU_I386_ISA_SOUND_AWE_VOICE_H.c.o   -c /root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE__USR_SRC_SYS_GNU_I386_ISA_SOUND_AWE_VOICE_H.c
+/root/lmms/build/CMakeFiles/CheckIncludeFiles/LMMS_HAVE__USR_SRC_SYS_GNU_I386_ISA_SOUND_AWE_VOICE_H.c:2:10: fatal error: /usr/src/sys/gnu/i386/isa/sound/awe_voice.h: No such file or directory
+ #include </usr/src/sys/gnu/i386/isa/sound/awe_voice.h>
+          ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+compilation terminated.
+make[1]: *** [CMakeFiles/cmTC_5fcb1.dir/build.make:66: CMakeFiles/cmTC_5fcb1.dir/LMMS_HAVE__USR_SRC_SYS_GNU_I386_ISA_SOUND_AWE_VOICE_H.c.o] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_5fcb1/fast] Error 2
+
+Source:
+/* */
+#include </usr/src/sys/gnu/i386/isa/sound/awe_voice.h>
+
+
+int main(void){return 0;}
+
+Determining if the function sio_open exists in the sndio failed with the following output:
+Change Dir: /root/lmms/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/bin/make" "cmTC_b4dea/fast"
+/bin/make -f CMakeFiles/cmTC_b4dea.dir/build.make CMakeFiles/cmTC_b4dea.dir/build
+make[1]: Entering directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_b4dea.dir/CheckFunctionExists.c.o
+/bin/cc   -DCHECK_FUNCTION_EXISTS=sio_open   -o CMakeFiles/cmTC_b4dea.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.13/Modules/CheckFunctionExists.c
+Linking C executable cmTC_b4dea
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b4dea.dir/link.txt --verbose=1
+/bin/cc  -DCHECK_FUNCTION_EXISTS=sio_open    -rdynamic CMakeFiles/cmTC_b4dea.dir/CheckFunctionExists.c.o  -o cmTC_b4dea -lsndio 
+/bin/ld: cannot find -lsndio
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_b4dea.dir/build.make:87: cmTC_b4dea] Error 1
+make[1]: Leaving directory '/root/lmms/build/CMakeFiles/CMakeTmp'
+make: *** [Makefile:121: cmTC_b4dea/fast] Error 2
+
+

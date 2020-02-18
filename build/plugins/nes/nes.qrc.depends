@@ -1,0 +1,13 @@
+<RCC>
+	<qresource prefix="artwork/nes">
+		<file alias="artwork.png">/root/lmms/plugins/nes/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/nes/logo.png</file>
+		<file alias="nesdc1_on.png">/root/lmms/plugins/nes/nesdc1_on.png</file>
+		<file alias="nesdc2_on.png">/root/lmms/plugins/nes/nesdc2_on.png</file>
+		<file alias="nesdc3_on.png">/root/lmms/plugins/nes/nesdc3_on.png</file>
+		<file alias="nesdc4_on.png">/root/lmms/plugins/nes/nesdc4_on.png</file>
+		<file alias="nesdc_off.png">/root/lmms/plugins/nes/nesdc_off.png</file>
+		<file alias="nesled_off.png">/root/lmms/plugins/nes/nesled_off.png</file>
+		<file alias="nesled_on.png">/root/lmms/plugins/nes/nesled_on.png</file>
+	</qresource>
+</RCC>

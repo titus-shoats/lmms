@@ -1,0 +1,1 @@
+/bin/cc -fPIC -Wall -Werror=unused-function -Wno-sign-compare -Wno-strict-overflow -Wno-array-bounds  -g -DLMMS_DEBUG  -shared  -o ../../ladspa/fast_lookahead_limiter_1913.so CMakeFiles/fast_lookahead_limiter_1913.dir/ladspa/fast_lookahead_limiter_1913.c.o /usr/lib/x86_64-linux-gnu/libfftw3f.so -lm 

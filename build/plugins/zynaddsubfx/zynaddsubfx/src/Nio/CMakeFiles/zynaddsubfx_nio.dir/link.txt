@@ -1,0 +1,2 @@
+/bin/ar qc libzynaddsubfx_nio.a  CMakeFiles/zynaddsubfx_nio.dir/WavEngine.cpp.o CMakeFiles/zynaddsubfx_nio.dir/NulEngine.cpp.o CMakeFiles/zynaddsubfx_nio.dir/AudioOut.cpp.o CMakeFiles/zynaddsubfx_nio.dir/MidiIn.cpp.o CMakeFiles/zynaddsubfx_nio.dir/OutMgr.cpp.o CMakeFiles/zynaddsubfx_nio.dir/InMgr.cpp.o CMakeFiles/zynaddsubfx_nio.dir/Engine.cpp.o CMakeFiles/zynaddsubfx_nio.dir/EngineMgr.cpp.o CMakeFiles/zynaddsubfx_nio.dir/Nio.cpp.o
+/bin/ranlib libzynaddsubfx_nio.a

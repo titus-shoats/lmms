@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/3rdparty/ringbuffer/include/ringbuffer/ringbuffer.h
+atomic
+-
+cassert
+-
+cstddef
+-
+algorithm
+-
+ringbuffer_export.h
+../src/3rdparty/ringbuffer/include/ringbuffer/ringbuffer_export.h
+
+/root/lmms/build/src/lmms_export.h
+
+/root/lmms/build/src/qrc_lmms.cpp
+
+/root/lmms/src/3rdparty/ringbuffer/src/lib/ringbuffer.cpp
+algorithm
+-
+limits
+-
+ringbuffer/ringbuffer.h
+-
+ringbuffer-config.h
+/root/lmms/src/3rdparty/ringbuffer/src/lib/ringbuffer-config.h
+sys/mman.h
+-
+
+src/ringbuffer-config.h
+
+src/ringbuffer_export.h
+/root/lmms/build/src/lmms_export.h
+-
+

@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="artwork/vsteffect">
+		<file alias="controls.png">/root/lmms/plugins/VstEffect/controls.png</file>
+		<file alias="controls_active.png">/root/lmms/plugins/VstEffect/controls_active.png</file>
+		<file alias="logo.png">/root/lmms/plugins/VstEffect/logo.png</file>
+	</qresource>
+</RCC>

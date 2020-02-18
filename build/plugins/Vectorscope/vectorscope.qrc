@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="artwork/vectorscope">
+		<file alias="logo.png">/root/lmms/plugins/Vectorscope/logo.png</file>
+	</qresource>
+</RCC>

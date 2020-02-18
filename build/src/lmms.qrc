@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="/">
+		<file alias="AUTHORS">/root/lmms/doc/AUTHORS</file>
+		<file alias="LICENSE.txt">/root/lmms/LICENSE.txt</file>
+		<file alias="CONTRIBUTORS">/root/lmms/build/CONTRIBUTORS</file>
+	</qresource>
+</RCC>

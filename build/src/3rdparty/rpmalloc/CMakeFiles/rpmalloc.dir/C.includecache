@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/lmms/src/3rdparty/rpmalloc/rpmalloc/rpmalloc/rpmalloc.c
+rpmalloc.h
+/root/lmms/src/3rdparty/rpmalloc/rpmalloc/rpmalloc/rpmalloc.h
+Intsafe.h
+-
+unistd.h
+-
+pthread.h
+-
+stdint.h
+-
+string.h
+-
+assert.h
+-
+windows.h
+-
+sys/mman.h
+-
+sched.h
+-
+errno.h
+-
+
+/root/lmms/src/3rdparty/rpmalloc/rpmalloc/rpmalloc/rpmalloc.h
+stddef.h
+-
+

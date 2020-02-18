@@ -1,0 +1,8 @@
+<RCC>
+	<qresource prefix="artwork/organic">
+		<file alias="artwork.png">/root/lmms/plugins/organic/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/organic/logo.png</file>
+		<file alias="randomise.png">/root/lmms/plugins/organic/randomise.png</file>
+		<file alias="randomise_pressed.png">/root/lmms/plugins/organic/randomise_pressed.png</file>
+	</qresource>
+</RCC>

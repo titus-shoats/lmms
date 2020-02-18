@@ -1,0 +1,13 @@
+# Target labels
+ RemoteVstPlugin32
+# Source files and their labels
+/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin32
+/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin32.rule
+/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin32-complete.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-install.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-mkdir.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-download.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-update.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-patch.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-configure.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin32-prefix/src/RemoteVstPlugin32-stamp/RemoteVstPlugin32-build.rule

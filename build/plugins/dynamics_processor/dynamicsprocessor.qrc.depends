@@ -1,0 +1,21 @@
+<RCC>
+	<qresource prefix="artwork/dynamicsprocessor">
+		<file alias="add1_active.png">/root/lmms/plugins/dynamics_processor/add1_active.png</file>
+		<file alias="add1_inactive.png">/root/lmms/plugins/dynamics_processor/add1_inactive.png</file>
+		<file alias="artwork.png">/root/lmms/plugins/dynamics_processor/artwork.png</file>
+		<file alias="avg_active.png">/root/lmms/plugins/dynamics_processor/avg_active.png</file>
+		<file alias="avg_inactive.png">/root/lmms/plugins/dynamics_processor/avg_inactive.png</file>
+		<file alias="logo.png">/root/lmms/plugins/dynamics_processor/logo.png</file>
+		<file alias="max_active.png">/root/lmms/plugins/dynamics_processor/max_active.png</file>
+		<file alias="max_inactive.png">/root/lmms/plugins/dynamics_processor/max_inactive.png</file>
+		<file alias="reset_active.png">/root/lmms/plugins/dynamics_processor/reset_active.png</file>
+		<file alias="reset_inactive.png">/root/lmms/plugins/dynamics_processor/reset_inactive.png</file>
+		<file alias="smooth_active.png">/root/lmms/plugins/dynamics_processor/smooth_active.png</file>
+		<file alias="smooth_inactive.png">/root/lmms/plugins/dynamics_processor/smooth_inactive.png</file>
+		<file alias="sub1_active.png">/root/lmms/plugins/dynamics_processor/sub1_active.png</file>
+		<file alias="sub1_inactive.png">/root/lmms/plugins/dynamics_processor/sub1_inactive.png</file>
+		<file alias="unl_active.png">/root/lmms/plugins/dynamics_processor/unl_active.png</file>
+		<file alias="unl_inactive.png">/root/lmms/plugins/dynamics_processor/unl_inactive.png</file>
+		<file alias="wavegraph.png">/root/lmms/plugins/dynamics_processor/wavegraph.png</file>
+	</qresource>
+</RCC>

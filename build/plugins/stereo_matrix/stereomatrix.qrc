@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="artwork/stereomatrix">
+		<file alias="artwork.png">/root/lmms/plugins/stereo_matrix/artwork.png</file>
+	</qresource>
+</RCC>

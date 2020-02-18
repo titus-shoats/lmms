@@ -1,0 +1,1 @@
+/bin/cc -fPIC -Wall -Werror=unused-function -Wno-sign-compare -Wno-strict-overflow -Wno-array-bounds  -g -DLMMS_DEBUG  -shared  -o ../../ladspa/chebstortion_1430.so CMakeFiles/chebstortion_1430.dir/ladspa/chebstortion_1430.c.o /usr/lib/x86_64-linux-gnu/libfftw3f.so -lm 

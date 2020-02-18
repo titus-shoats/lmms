@@ -1,0 +1,1 @@
+/root/lmms/build/winegcc_wrapper  -m64 -g  -rdynamic CMakeFiles/RemoteVstPlugin64.dir/root/lmms/plugins/vst_base/RemoteVstPlugin.cpp.o  -o /root/lmms/build/plugins/RemoteVstPlugin64 -lole32 

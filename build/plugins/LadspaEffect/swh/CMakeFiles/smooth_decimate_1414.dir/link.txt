@@ -1,0 +1,1 @@
+/bin/cc -fPIC -Wall -Werror=unused-function -Wno-sign-compare -Wno-strict-overflow -Wno-array-bounds  -g -DLMMS_DEBUG  -shared  -o ../../ladspa/smooth_decimate_1414.so CMakeFiles/smooth_decimate_1414.dir/ladspa/smooth_decimate_1414.c.o /usr/lib/x86_64-linux-gnu/libfftw3f.so -lm 

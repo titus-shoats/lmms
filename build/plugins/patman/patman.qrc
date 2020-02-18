@@ -1,0 +1,12 @@
+<RCC>
+	<qresource prefix="artwork/patman">
+		<file alias="artwork.png">/root/lmms/plugins/patman/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/patman/logo.png</file>
+		<file alias="loop_off.png">/root/lmms/plugins/patman/loop_off.png</file>
+		<file alias="loop_on.png">/root/lmms/plugins/patman/loop_on.png</file>
+		<file alias="select_file.png">/root/lmms/plugins/patman/select_file.png</file>
+		<file alias="select_file_on.png">/root/lmms/plugins/patman/select_file_on.png</file>
+		<file alias="tune_off.png">/root/lmms/plugins/patman/tune_off.png</file>
+		<file alias="tune_on.png">/root/lmms/plugins/patman/tune_on.png</file>
+	</qresource>
+</RCC>

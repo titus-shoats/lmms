@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ladspa.h
+
+/root/lmms/plugins/LadspaEffect/tap/tap-plugins/tap_sigmoid.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+ladspa.h
+-
+tap_utils.h
+/root/lmms/plugins/LadspaEffect/tap/tap-plugins/tap_utils.h
+
+/root/lmms/plugins/LadspaEffect/tap/tap-plugins/tap_utils.h
+stdint.h
+-
+

@@ -1,0 +1,10 @@
+<RCC>
+	<qresource prefix="artwork/vestige">
+		<file alias="artwork.png">/root/lmms/plugins/vestige/artwork.png</file>
+		<file alias="controls.png">/root/lmms/plugins/vestige/controls.png</file>
+		<file alias="controls_active.png">/root/lmms/plugins/vestige/controls_active.png</file>
+		<file alias="logo.png">/root/lmms/plugins/vestige/logo.png</file>
+		<file alias="select_file.png">/root/lmms/plugins/vestige/select_file.png</file>
+		<file alias="select_file_active.png">/root/lmms/plugins/vestige/select_file_active.png</file>
+	</qresource>
+</RCC>

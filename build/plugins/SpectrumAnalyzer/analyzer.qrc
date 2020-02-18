@@ -1,0 +1,18 @@
+<RCC>
+	<qresource prefix="artwork/analyzer">
+		<file alias="advanced_off.svg">/root/lmms/plugins/SpectrumAnalyzer/advanced_off.svg</file>
+		<file alias="advanced_on.svg">/root/lmms/plugins/SpectrumAnalyzer/advanced_on.svg</file>
+		<file alias="advanced_src.svg">/root/lmms/plugins/SpectrumAnalyzer/advanced_src.svg</file>
+		<file alias="block_size.svg">/root/lmms/plugins/SpectrumAnalyzer/block_size.svg</file>
+		<file alias="freeze.svg">/root/lmms/plugins/SpectrumAnalyzer/freeze.svg</file>
+		<file alias="freeze_off.svg">/root/lmms/plugins/SpectrumAnalyzer/freeze_off.svg</file>
+		<file alias="pause.svg">/root/lmms/plugins/SpectrumAnalyzer/pause.svg</file>
+		<file alias="play.svg">/root/lmms/plugins/SpectrumAnalyzer/play.svg</file>
+		<file alias="window.svg">/root/lmms/plugins/SpectrumAnalyzer/window.svg</file>
+		<file alias="x_linear.svg">/root/lmms/plugins/SpectrumAnalyzer/x_linear.svg</file>
+		<file alias="x_log.svg">/root/lmms/plugins/SpectrumAnalyzer/x_log.svg</file>
+		<file alias="y_linear.svg">/root/lmms/plugins/SpectrumAnalyzer/y_linear.svg</file>
+		<file alias="y_log.svg">/root/lmms/plugins/SpectrumAnalyzer/y_log.svg</file>
+		<file alias="logo.png">/root/lmms/plugins/SpectrumAnalyzer/logo.png</file>
+	</qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="artwork/carlabase">
+		<file alias="artwork-patchbay.png">/root/lmms/plugins/carlabase/artwork-patchbay.png</file>
+		<file alias="artwork-rack.png">/root/lmms/plugins/carlabase/artwork-rack.png</file>
+	</qresource>
+</RCC>

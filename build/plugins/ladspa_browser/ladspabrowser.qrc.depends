@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="artwork/ladspabrowser">
+		<file alias="logo.png">/root/lmms/plugins/ladspa_browser/logo.png</file>
+	</qresource>
+</RCC>

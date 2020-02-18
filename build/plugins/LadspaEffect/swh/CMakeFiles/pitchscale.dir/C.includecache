@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../plugins/LadspaEffect/swh/ladspa/config.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/config.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/pitchscale.c
+string.h
+-
+../config.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/config.h
+math.h
+-
+pitchscale.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/pitchscale.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/pitchscale.h
+config.h
+-
+fftw3.h
+-
+srfftw.h
+-
+rfftw.h
+-
+

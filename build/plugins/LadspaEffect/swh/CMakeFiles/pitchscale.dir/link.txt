@@ -1,0 +1,2 @@
+/bin/ar qc libpitchscale.a  CMakeFiles/pitchscale.dir/ladspa/util/pitchscale.c.o
+/bin/ranlib libpitchscale.a

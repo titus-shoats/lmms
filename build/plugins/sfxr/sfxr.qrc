@@ -1,0 +1,32 @@
+<RCC>
+	<qresource prefix="artwork/sfxr">
+		<file alias="artwork.png">/root/lmms/plugins/sfxr/artwork.png</file>
+		<file alias="blip_active.png">/root/lmms/plugins/sfxr/blip_active.png</file>
+		<file alias="blip_inactive.png">/root/lmms/plugins/sfxr/blip_inactive.png</file>
+		<file alias="explosion_active.png">/root/lmms/plugins/sfxr/explosion_active.png</file>
+		<file alias="explosion_inactive.png">/root/lmms/plugins/sfxr/explosion_inactive.png</file>
+		<file alias="hit_active.png">/root/lmms/plugins/sfxr/hit_active.png</file>
+		<file alias="hit_inactive.png">/root/lmms/plugins/sfxr/hit_inactive.png</file>
+		<file alias="jump_active.png">/root/lmms/plugins/sfxr/jump_active.png</file>
+		<file alias="jump_inactive.png">/root/lmms/plugins/sfxr/jump_inactive.png</file>
+		<file alias="laser_active.png">/root/lmms/plugins/sfxr/laser_active.png</file>
+		<file alias="laser_inactive.png">/root/lmms/plugins/sfxr/laser_inactive.png</file>
+		<file alias="logo.png">/root/lmms/plugins/sfxr/logo.png</file>
+		<file alias="mutate_active.png">/root/lmms/plugins/sfxr/mutate_active.png</file>
+		<file alias="mutate_inactive.png">/root/lmms/plugins/sfxr/mutate_inactive.png</file>
+		<file alias="pickup_active.png">/root/lmms/plugins/sfxr/pickup_active.png</file>
+		<file alias="pickup_inactive.png">/root/lmms/plugins/sfxr/pickup_inactive.png</file>
+		<file alias="powerup_active.png">/root/lmms/plugins/sfxr/powerup_active.png</file>
+		<file alias="powerup_inactive.png">/root/lmms/plugins/sfxr/powerup_inactive.png</file>
+		<file alias="randomize_active.png">/root/lmms/plugins/sfxr/randomize_active.png</file>
+		<file alias="randomize_inactive.png">/root/lmms/plugins/sfxr/randomize_inactive.png</file>
+		<file alias="sfxr_saw_wave_active.png">/root/lmms/plugins/sfxr/sfxr_saw_wave_active.png</file>
+		<file alias="sfxr_saw_wave_inactive.png">/root/lmms/plugins/sfxr/sfxr_saw_wave_inactive.png</file>
+		<file alias="sfxr_sin_wave_active.png">/root/lmms/plugins/sfxr/sfxr_sin_wave_active.png</file>
+		<file alias="sfxr_sin_wave_inactive.png">/root/lmms/plugins/sfxr/sfxr_sin_wave_inactive.png</file>
+		<file alias="sfxr_square_wave_active.png">/root/lmms/plugins/sfxr/sfxr_square_wave_active.png</file>
+		<file alias="sfxr_square_wave_inactive.png">/root/lmms/plugins/sfxr/sfxr_square_wave_inactive.png</file>
+		<file alias="sfxr_white_noise_wave_active.png">/root/lmms/plugins/sfxr/sfxr_white_noise_wave_active.png</file>
+		<file alias="sfxr_white_noise_wave_inactive.png">/root/lmms/plugins/sfxr/sfxr_white_noise_wave_inactive.png</file>
+	</qresource>
+</RCC>

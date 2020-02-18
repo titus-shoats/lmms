@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="artwork/malletsstk">
+		<file alias="artwork.png">/root/lmms/plugins/stk/mallets/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/stk/mallets/logo.png</file>
+	</qresource>
+</RCC>

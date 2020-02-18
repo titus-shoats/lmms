@@ -1,0 +1,5 @@
+<RCC>
+	<qresource prefix="artwork/stereoenhancer">
+		<file alias="logo.png">/root/lmms/plugins/stereo_enhancer/logo.png</file>
+	</qresource>
+</RCC>

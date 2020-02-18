@@ -1,0 +1,9 @@
+<RCC>
+	<qresource prefix="artwork/crossovereq">
+		<file alias="artwork.png">/root/lmms/plugins/CrossoverEQ/artwork.png</file>
+		<file alias="fader_bg.png">/root/lmms/plugins/CrossoverEQ/fader_bg.png</file>
+		<file alias="fader_empty.png">/root/lmms/plugins/CrossoverEQ/fader_empty.png</file>
+		<file alias="fader_knob2.png">/root/lmms/plugins/CrossoverEQ/fader_knob2.png</file>
+		<file alias="logo.png">/root/lmms/plugins/CrossoverEQ/logo.png</file>
+	</qresource>
+</RCC>

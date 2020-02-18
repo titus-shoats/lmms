@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="artwork/reverbsc">
+		<file alias="artwork.png">/root/lmms/plugins/ReverbSC/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/ReverbSC/logo.png</file>
+	</qresource>
+</RCC>

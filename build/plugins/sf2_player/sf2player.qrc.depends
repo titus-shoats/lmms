@@ -1,0 +1,14 @@
+<RCC>
+	<qresource prefix="artwork/sf2player">
+		<file alias="artwork.png">/root/lmms/plugins/sf2_player/artwork.png</file>
+		<file alias="chorus_off.png">/root/lmms/plugins/sf2_player/chorus_off.png</file>
+		<file alias="chorus_on.png">/root/lmms/plugins/sf2_player/chorus_on.png</file>
+		<file alias="fileselect_off.png">/root/lmms/plugins/sf2_player/fileselect_off.png</file>
+		<file alias="fileselect_on.png">/root/lmms/plugins/sf2_player/fileselect_on.png</file>
+		<file alias="logo.png">/root/lmms/plugins/sf2_player/logo.png</file>
+		<file alias="patches_off.png">/root/lmms/plugins/sf2_player/patches_off.png</file>
+		<file alias="patches_on.png">/root/lmms/plugins/sf2_player/patches_on.png</file>
+		<file alias="reverb_off.png">/root/lmms/plugins/sf2_player/reverb_off.png</file>
+		<file alias="reverb_on.png">/root/lmms/plugins/sf2_player/reverb_on.png</file>
+	</qresource>
+</RCC>

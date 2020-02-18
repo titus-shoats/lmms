@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ladspa.h
+
+/root/lmms/plugins/LadspaEffect/tap/tap-plugins/tap_reverb.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+math.h
+-
+ladspa.h
+-
+tap_reverb_presets.h
+/root/lmms/plugins/LadspaEffect/tap/tap-plugins/tap_reverb_presets.h
+
+/root/lmms/plugins/LadspaEffect/tap/tap-plugins/tap_reverb.h
+stdint.h
+-
+
+/root/lmms/plugins/LadspaEffect/tap/tap-plugins/tap_reverb_presets.h
+tap_reverb.h
+/root/lmms/plugins/LadspaEffect/tap/tap-plugins/tap_reverb.h
+

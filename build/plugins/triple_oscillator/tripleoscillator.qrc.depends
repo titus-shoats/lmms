@@ -1,0 +1,32 @@
+<RCC>
+	<qresource prefix="artwork/tripleoscillator">
+		<file alias="am_active.png">/root/lmms/plugins/triple_oscillator/am_active.png</file>
+		<file alias="am_inactive.png">/root/lmms/plugins/triple_oscillator/am_inactive.png</file>
+		<file alias="artwork.png">/root/lmms/plugins/triple_oscillator/artwork.png</file>
+		<file alias="exp_shape_active.png">/root/lmms/plugins/triple_oscillator/exp_shape_active.png</file>
+		<file alias="exp_shape_inactive.png">/root/lmms/plugins/triple_oscillator/exp_shape_inactive.png</file>
+		<file alias="fm_active.png">/root/lmms/plugins/triple_oscillator/fm_active.png</file>
+		<file alias="fm_inactive.png">/root/lmms/plugins/triple_oscillator/fm_inactive.png</file>
+		<file alias="logo.png">/root/lmms/plugins/triple_oscillator/logo.png</file>
+		<file alias="mix_active.png">/root/lmms/plugins/triple_oscillator/mix_active.png</file>
+		<file alias="mix_inactive.png">/root/lmms/plugins/triple_oscillator/mix_inactive.png</file>
+		<file alias="moog_saw_shape_active.png">/root/lmms/plugins/triple_oscillator/moog_saw_shape_active.png</file>
+		<file alias="moog_saw_shape_inactive.png">/root/lmms/plugins/triple_oscillator/moog_saw_shape_inactive.png</file>
+		<file alias="pm_active.png">/root/lmms/plugins/triple_oscillator/pm_active.png</file>
+		<file alias="pm_inactive.png">/root/lmms/plugins/triple_oscillator/pm_inactive.png</file>
+		<file alias="saw_shape_active.png">/root/lmms/plugins/triple_oscillator/saw_shape_active.png</file>
+		<file alias="saw_shape_inactive.png">/root/lmms/plugins/triple_oscillator/saw_shape_inactive.png</file>
+		<file alias="sin_shape_active.png">/root/lmms/plugins/triple_oscillator/sin_shape_active.png</file>
+		<file alias="sin_shape_inactive.png">/root/lmms/plugins/triple_oscillator/sin_shape_inactive.png</file>
+		<file alias="square_shape_active.png">/root/lmms/plugins/triple_oscillator/square_shape_active.png</file>
+		<file alias="square_shape_inactive.png">/root/lmms/plugins/triple_oscillator/square_shape_inactive.png</file>
+		<file alias="sync_active.png">/root/lmms/plugins/triple_oscillator/sync_active.png</file>
+		<file alias="sync_inactive.png">/root/lmms/plugins/triple_oscillator/sync_inactive.png</file>
+		<file alias="triangle_shape_active.png">/root/lmms/plugins/triple_oscillator/triangle_shape_active.png</file>
+		<file alias="triangle_shape_inactive.png">/root/lmms/plugins/triple_oscillator/triangle_shape_inactive.png</file>
+		<file alias="usr_shape_active.png">/root/lmms/plugins/triple_oscillator/usr_shape_active.png</file>
+		<file alias="usr_shape_inactive.png">/root/lmms/plugins/triple_oscillator/usr_shape_inactive.png</file>
+		<file alias="white_noise_shape_active.png">/root/lmms/plugins/triple_oscillator/white_noise_shape_active.png</file>
+		<file alias="white_noise_shape_inactive.png">/root/lmms/plugins/triple_oscillator/white_noise_shape_inactive.png</file>
+	</qresource>
+</RCC>

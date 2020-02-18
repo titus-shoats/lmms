@@ -1,0 +1,7 @@
+<RCC>
+	<qresource prefix="artwork/multitapecho">
+		<file alias="artwork.png">/root/lmms/plugins/MultitapEcho/artwork.png</file>
+		<file alias="graph_bg.png">/root/lmms/plugins/MultitapEcho/graph_bg.png</file>
+		<file alias="logo.png">/root/lmms/plugins/MultitapEcho/logo.png</file>
+	</qresource>
+</RCC>

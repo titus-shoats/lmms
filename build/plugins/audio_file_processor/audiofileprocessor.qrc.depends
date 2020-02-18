@@ -1,0 +1,17 @@
+<RCC>
+	<qresource prefix="artwork/audiofileprocessor">
+		<file alias="artwork.png">/root/lmms/plugins/audio_file_processor/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/audio_file_processor/logo.png</file>
+		<file alias="loop_off_off.png">/root/lmms/plugins/audio_file_processor/loop_off_off.png</file>
+		<file alias="loop_off_on.png">/root/lmms/plugins/audio_file_processor/loop_off_on.png</file>
+		<file alias="loop_on_off.png">/root/lmms/plugins/audio_file_processor/loop_on_off.png</file>
+		<file alias="loop_on_on.png">/root/lmms/plugins/audio_file_processor/loop_on_on.png</file>
+		<file alias="loop_pingpong_off.png">/root/lmms/plugins/audio_file_processor/loop_pingpong_off.png</file>
+		<file alias="loop_pingpong_on.png">/root/lmms/plugins/audio_file_processor/loop_pingpong_on.png</file>
+		<file alias="reverse_off.png">/root/lmms/plugins/audio_file_processor/reverse_off.png</file>
+		<file alias="reverse_on.png">/root/lmms/plugins/audio_file_processor/reverse_on.png</file>
+		<file alias="select_file.png">/root/lmms/plugins/audio_file_processor/select_file.png</file>
+		<file alias="stutter_off.png">/root/lmms/plugins/audio_file_processor/stutter_off.png</file>
+		<file alias="stutter_on.png">/root/lmms/plugins/audio_file_processor/stutter_on.png</file>
+	</qresource>
+</RCC>

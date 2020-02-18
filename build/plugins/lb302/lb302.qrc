@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="artwork/lb302">
+		<file alias="artwork.png">/root/lmms/plugins/lb302/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/lb302/logo.png</file>
+	</qresource>
+</RCC>

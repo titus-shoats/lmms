@@ -1,0 +1,1 @@
+/bin/cc -fPIC -Wall -Werror=unused-function -Wno-sign-compare -Wno-strict-overflow -Wno-array-bounds  -g -DLMMS_DEBUG  -shared  -o ../../ladspa/mbeq_1197.so CMakeFiles/mbeq_1197.dir/ladspa/mbeq_1197.c.o /usr/lib/x86_64-linux-gnu/libfftw3f.so -lm 

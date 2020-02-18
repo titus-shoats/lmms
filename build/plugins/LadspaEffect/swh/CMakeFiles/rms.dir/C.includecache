@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/rms.c
+stdlib.h
+-
+rms.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/rms.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/rms.h
+math.h
+-
+

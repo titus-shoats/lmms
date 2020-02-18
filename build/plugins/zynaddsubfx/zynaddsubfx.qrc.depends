@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="artwork/zynaddsubfx">
+		<file alias="artwork.png">/root/lmms/plugins/zynaddsubfx/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/zynaddsubfx/logo.png</file>
+	</qresource>
+</RCC>

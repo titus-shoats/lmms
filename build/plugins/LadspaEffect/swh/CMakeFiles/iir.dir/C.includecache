@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../plugins/LadspaEffect/swh/ladspa/config.h
+
+../plugins/LadspaEffect/swh/ladspa/ladspa-util.h
+math.h
+-
+stdint.h
+-
+config.h
+../plugins/LadspaEffect/swh/ladspa/config.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/config.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/iir.c
+string.h
+-
+../config.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/config.h
+math.h
+-
+stdlib.h
+-
+iir.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/iir.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/util/iir.h
+ladspa-util.h
+-
+

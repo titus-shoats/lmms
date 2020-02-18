@@ -1,0 +1,1 @@
+/bin/cc -fPIC -Wall -Werror=unused-function -Wno-sign-compare -Wno-strict-overflow -Wno-array-bounds  -O3 -Wno-write-strings -fomit-frame-pointer -fno-strict-aliasing -funroll-loops -ffast-math -g -DLMMS_DEBUG  -shared  -o ../../ladspa/tap_tubewarmth.so CMakeFiles/tap_tubewarmth.dir/tap-plugins/tap_tubewarmth.c.o -lm 

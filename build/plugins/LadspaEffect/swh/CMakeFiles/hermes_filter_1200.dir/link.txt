@@ -1,0 +1,1 @@
+/bin/cc -fPIC -Wall -Werror=unused-function -Wno-sign-compare -Wno-strict-overflow -Wno-array-bounds  -g -DLMMS_DEBUG  -shared  -o ../../ladspa/hermes_filter_1200.so CMakeFiles/hermes_filter_1200.dir/ladspa/hermes_filter_1200.c.o /usr/lib/x86_64-linux-gnu/libfftw3f.so -lm libblo.a 

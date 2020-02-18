@@ -1,0 +1,37 @@
+<RCC>
+	<qresource prefix="artwork/vibedstrings">
+		<file alias="artwork.png">/root/lmms/plugins/vibed/artwork.png</file>
+		<file alias="button_-1_off.png">/root/lmms/plugins/vibed/button_-1_off.png</file>
+		<file alias="button_-1_on.png">/root/lmms/plugins/vibed/button_-1_on.png</file>
+		<file alias="button_-2_off.png">/root/lmms/plugins/vibed/button_-2_off.png</file>
+		<file alias="button_-2_on.png">/root/lmms/plugins/vibed/button_-2_on.png</file>
+		<file alias="button_1_off.png">/root/lmms/plugins/vibed/button_1_off.png</file>
+		<file alias="button_1_on.png">/root/lmms/plugins/vibed/button_1_on.png</file>
+		<file alias="button_2_off.png">/root/lmms/plugins/vibed/button_2_off.png</file>
+		<file alias="button_2_on.png">/root/lmms/plugins/vibed/button_2_on.png</file>
+		<file alias="button_3_off.png">/root/lmms/plugins/vibed/button_3_off.png</file>
+		<file alias="button_3_on.png">/root/lmms/plugins/vibed/button_3_on.png</file>
+		<file alias="button_4_off.png">/root/lmms/plugins/vibed/button_4_off.png</file>
+		<file alias="button_4_on.png">/root/lmms/plugins/vibed/button_4_on.png</file>
+		<file alias="button_5_off.png">/root/lmms/plugins/vibed/button_5_off.png</file>
+		<file alias="button_5_on.png">/root/lmms/plugins/vibed/button_5_on.png</file>
+		<file alias="button_6_off.png">/root/lmms/plugins/vibed/button_6_off.png</file>
+		<file alias="button_6_on.png">/root/lmms/plugins/vibed/button_6_on.png</file>
+		<file alias="button_7_off.png">/root/lmms/plugins/vibed/button_7_off.png</file>
+		<file alias="button_7_on.png">/root/lmms/plugins/vibed/button_7_on.png</file>
+		<file alias="button_8_off.png">/root/lmms/plugins/vibed/button_8_off.png</file>
+		<file alias="button_8_on.png">/root/lmms/plugins/vibed/button_8_on.png</file>
+		<file alias="button_9_off.png">/root/lmms/plugins/vibed/button_9_off.png</file>
+		<file alias="button_9_on.png">/root/lmms/plugins/vibed/button_9_on.png</file>
+		<file alias="button_down.png">/root/lmms/plugins/vibed/button_down.png</file>
+		<file alias="button_f_off.png">/root/lmms/plugins/vibed/button_f_off.png</file>
+		<file alias="button_f_on.png">/root/lmms/plugins/vibed/button_f_on.png</file>
+		<file alias="button_up.png">/root/lmms/plugins/vibed/button_up.png</file>
+		<file alias="logo.png">/root/lmms/plugins/vibed/logo.png</file>
+		<file alias="normalize_active.png">/root/lmms/plugins/vibed/normalize_active.png</file>
+		<file alias="normalize_inactive.png">/root/lmms/plugins/vibed/normalize_inactive.png</file>
+		<file alias="smooth_active.png">/root/lmms/plugins/vibed/smooth_active.png</file>
+		<file alias="smooth_inactive.png">/root/lmms/plugins/vibed/smooth_inactive.png</file>
+		<file alias="wavegraph4.png">/root/lmms/plugins/vibed/wavegraph4.png</file>
+	</qresource>
+</RCC>

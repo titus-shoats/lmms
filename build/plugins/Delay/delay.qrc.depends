@@ -1,0 +1,6 @@
+<RCC>
+	<qresource prefix="artwork/delay">
+		<file alias="artwork.png">/root/lmms/plugins/Delay/artwork.png</file>
+		<file alias="logo.png">/root/lmms/plugins/Delay/logo.png</file>
+	</qresource>
+</RCC>

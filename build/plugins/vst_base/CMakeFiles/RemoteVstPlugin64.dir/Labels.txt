@@ -1,0 +1,13 @@
+# Target labels
+ RemoteVstPlugin64
+# Source files and their labels
+/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin64
+/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin64.rule
+/root/lmms/build/plugins/vst_base/CMakeFiles/RemoteVstPlugin64-complete.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-stamp/RemoteVstPlugin64-install.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-stamp/RemoteVstPlugin64-mkdir.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-stamp/RemoteVstPlugin64-download.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-stamp/RemoteVstPlugin64-update.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-stamp/RemoteVstPlugin64-patch.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-stamp/RemoteVstPlugin64-configure.rule
+/root/lmms/build/plugins/vst_base/RemoteVstPlugin64-prefix/src/RemoteVstPlugin64-stamp/RemoteVstPlugin64-build.rule

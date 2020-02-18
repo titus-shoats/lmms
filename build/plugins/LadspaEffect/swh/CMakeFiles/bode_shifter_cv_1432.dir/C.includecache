@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/bode_shifter_cv_1432.c
+stdlib.h
+-
+string.h
+-
+config.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/config.h
+libintl.h
+-
+math.h
+-
+ladspa.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/ladspa.h
+math.h
+-
+ladspa-util.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/ladspa-util.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/config.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/ladspa-util.h
+math.h
+-
+stdint.h
+-
+config.h
+/root/lmms/plugins/LadspaEffect/swh/ladspa/config.h
+
+/root/lmms/plugins/LadspaEffect/swh/ladspa/ladspa.h
+

@@ -1,0 +1,2 @@
+/bin/ar qc librpmalloc.a  CMakeFiles/rpmalloc.dir/rpmalloc/rpmalloc/rpmalloc.c.o
+/bin/ranlib librpmalloc.a
